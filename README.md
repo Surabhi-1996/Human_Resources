@@ -1,5 +1,8 @@
-Employee Retention Prediction Project
+# Employee Retention Prediction Project
 
-We have collected extensive data of employees and we are going to develop a model that could predict which employees are most likey to quit.
+## With collected extensive data of employees, we are going to develop a model that could predict which employees are most likey to quit.
 
-We have used Logistic Regression, RandomForestClassifier, Deep Learning model using Keras
+We have used the below models to train the data:
+- Logistic Regression 
+- RandomForestClassifier
+- Deep Learning model using Keras
